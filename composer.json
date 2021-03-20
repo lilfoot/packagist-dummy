@@ -1,0 +1,6 @@
+{
+    "name": "lilfoot/packagist-dummy",
+    "require": {
+        "php": ">=7.4.0"
+    }
+}
